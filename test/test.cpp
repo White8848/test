@@ -14,7 +14,7 @@ int main()
     while (true) {
         capture>>frame;
         imshow("src", frame);
-        waitKey(1);
+        waitKey(2);
     }
 }
 
